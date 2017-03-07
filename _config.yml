@@ -1,5 +1,6 @@
 name: Code for DC
 url: http://calm-jackal.cloudvent.net
+repository: http://github.com/carlvlewis/codefordc
 markdown: kramdown
 highlighter: rouge
 paginate: 10
